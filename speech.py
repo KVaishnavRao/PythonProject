@@ -1,9 +1,6 @@
 import speech_recognition as sr # type: ignore
 import nltk # type: ignore
 
-nltk.download('punkt')
-
-
 # Optional: Set custom nltk_data path
 nltk.data.path.append(r'C:\Users\K Vaishnav Rao\nltk_data')
 
