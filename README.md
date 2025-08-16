@@ -28,3 +28,7 @@ Clone the repository:
 
 git clone https://github.com/yourusername/speech-to-text-nltk.git
 cd speech-to-text-nltk
+
+Run the script:
+python speech.py
+
